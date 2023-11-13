@@ -1,3 +1,5 @@
+sudo apt-get install python3.7
+
 # Exit early on errors
 set -eu
 
